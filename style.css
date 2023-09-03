@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+.box {
+    text-align: center;
+    color: white;
+    margin-top: 300px;
+}
+#cnt {
+    font-size: 5rem;
+    margin-left: 41%;
+    margin-bottom: 60px;
+    width: 300px;
+}
+button {
+    font-size: 3rem;
+    margin-right: 15px;
+}
+#cnt,button {
+    background-color: black;
+    color: rgb(1, 198, 1);
+    border: 3px solid #01a301;
+    border-radius: 5px;
+}
+button:hover {
+    background-color:#01a301 ;
+    color:white
+}
+button:active {
+    background-color:#026c02 ;
+    border-color: #026c02;
+}
